@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_dictionary action="INSERT_OR_UPDATE" element="assigner" table="x_1755675_pc_req_0_pc_request">
+    <sys_dictionary action="INSERT_OR_UPDATE" element="remarks" table="x_1755675_pc_req_0_pc_request">
         <active>true</active>
         <array>false</array>
         <attributes/>
@@ -8,7 +8,7 @@
         <choice>0</choice>
         <choice_field/>
         <choice_table/>
-        <column_label>Assigner</column_label>
+        <column_label>Remarks</column_label>
         <comments/>
         <create_roles/>
         <default_value/>
@@ -21,21 +21,21 @@
         <dynamic_creation_script/>
         <dynamic_default_value/>
         <dynamic_ref_qual/>
-        <element>assigner</element>
+        <element>remarks</element>
         <element_reference>false</element_reference>
         <foreign_database/>
         <formula/>
         <function_definition/>
         <function_field>false</function_field>
-        <internal_type display_value="Reference">reference</internal_type>
+        <internal_type display_value="String">string</internal_type>
         <mandatory>false</mandatory>
-        <max_length>32</max_length>
+        <max_length>200</max_length>
         <name>x_1755675_pc_req_0_pc_request</name>
         <next_element/>
         <primary>false</primary>
         <read_only>false</read_only>
         <read_roles/>
-        <reference display_value="" name="sys_user">sys_user</reference>
+        <reference/>
         <reference_cascade_rule/>
         <reference_floats>false</reference_floats>
         <reference_key/>
@@ -46,14 +46,14 @@
         <staged>false</staged>
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2025-05-20 08:04:16</sys_created_on>
-        <sys_name>Assigner</sys_name>
+        <sys_created_on>2025-05-21 06:27:13</sys_created_on>
+        <sys_name>Remarks</sys_name>
         <sys_package display_value="PC Request" source="x_1755675_pc_req_0">f50a69be83a522105582e4d0deaad35e</sys_package>
         <sys_policy/>
         <sys_scope display_value="PC Request">f50a69be83a522105582e4d0deaad35e</sys_scope>
-        <sys_update_name>sys_dictionary_x_1755675_pc_req_0_pc_request_assigner</sys_update_name>
+        <sys_update_name>sys_dictionary_x_1755675_pc_req_0_pc_request_remarks</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-05-21 05:30:30</sys_updated_on>
+        <sys_updated_on>2025-05-21 06:27:13</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
