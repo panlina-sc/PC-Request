@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_1755675_pc_req_0_pc_request" version="2" view="workspace-pc-inventory-workspace-0">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>assigner</element>
+            <list_id display_value="x_1755675_pc_req_0_pc_request" element="NULL" name="x_1755675_pc_req_0_pc_request" parent="NULL" relationship="NULL" sys_domain="global" view="fa9622dbd221a210d035e2b16e6fec90">bca6e2db4721a2108762a22f316d4388</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-22 00:52:29</sys_created_on>
+            <sys_id>fca6e2db4721a2108762a22f316d4389</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-22 00:52:29</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>pc_model</element>
+            <list_id display_value="x_1755675_pc_req_0_pc_request" element="NULL" name="x_1755675_pc_req_0_pc_request" parent="NULL" relationship="NULL" sys_domain="global" view="fa9622dbd221a210d035e2b16e6fec90">bca6e2db4721a2108762a22f316d4388</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-22 00:52:29</sys_created_on>
+            <sys_id>f4a6e2db4721a2108762a22f316d438a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-22 00:52:29</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>serial_number</element>
+            <list_id display_value="x_1755675_pc_req_0_pc_request" element="NULL" name="x_1755675_pc_req_0_pc_request" parent="NULL" relationship="NULL" sys_domain="global" view="fa9622dbd221a210d035e2b16e6fec90">bca6e2db4721a2108762a22f316d4388</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-22 00:52:29</sys_created_on>
+            <sys_id>f8a6e2db4721a2108762a22f316d438a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-22 00:52:29</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>remarks</element>
+            <list_id display_value="x_1755675_pc_req_0_pc_request" element="NULL" name="x_1755675_pc_req_0_pc_request" parent="NULL" relationship="NULL" sys_domain="global" view="fa9622dbd221a210d035e2b16e6fec90">bca6e2db4721a2108762a22f316d4388</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-22 00:52:29</sys_created_on>
+            <sys_id>fca6e2db4721a2108762a22f316d438a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-22 00:52:29</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_created_by</element>
+            <list_id display_value="x_1755675_pc_req_0_pc_request" element="NULL" name="x_1755675_pc_req_0_pc_request" parent="NULL" relationship="NULL" sys_domain="global" view="fa9622dbd221a210d035e2b16e6fec90">bca6e2db4721a2108762a22f316d4388</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-22 00:52:29</sys_created_on>
+            <sys_id>f0a6e2db4721a2108762a22f316d438b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-22 00:52:29</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_created_on</element>
+            <list_id display_value="x_1755675_pc_req_0_pc_request" element="NULL" name="x_1755675_pc_req_0_pc_request" parent="NULL" relationship="NULL" sys_domain="global" view="fa9622dbd221a210d035e2b16e6fec90">bca6e2db4721a2108762a22f316d4388</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-22 00:52:29</sys_created_on>
+            <sys_id>f4a6e2db4721a2108762a22f316d438b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-22 00:52:29</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_id</element>
+            <list_id display_value="x_1755675_pc_req_0_pc_request" element="NULL" name="x_1755675_pc_req_0_pc_request" parent="NULL" relationship="NULL" sys_domain="global" view="fa9622dbd221a210d035e2b16e6fec90">bca6e2db4721a2108762a22f316d4388</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>6</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-22 00:52:29</sys_created_on>
+            <sys_id>f8a6e2db4721a2108762a22f316d438b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-22 00:52:29</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_mod_count</element>
+            <list_id display_value="x_1755675_pc_req_0_pc_request" element="NULL" name="x_1755675_pc_req_0_pc_request" parent="NULL" relationship="NULL" sys_domain="global" view="fa9622dbd221a210d035e2b16e6fec90">bca6e2db4721a2108762a22f316d4388</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>7</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-22 00:52:29</sys_created_on>
+            <sys_id>fca6e2db4721a2108762a22f316d438b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-22 00:52:29</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_tags</element>
+            <list_id display_value="x_1755675_pc_req_0_pc_request" element="NULL" name="x_1755675_pc_req_0_pc_request" parent="NULL" relationship="NULL" sys_domain="global" view="fa9622dbd221a210d035e2b16e6fec90">bca6e2db4721a2108762a22f316d4388</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>8</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-22 00:52:29</sys_created_on>
+            <sys_id>f0a6e2db4721a2108762a22f316d438c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-22 00:52:29</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_updated_by</element>
+            <list_id display_value="x_1755675_pc_req_0_pc_request" element="NULL" name="x_1755675_pc_req_0_pc_request" parent="NULL" relationship="NULL" sys_domain="global" view="fa9622dbd221a210d035e2b16e6fec90">bca6e2db4721a2108762a22f316d4388</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>9</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-22 00:52:29</sys_created_on>
+            <sys_id>f4a6e2db4721a2108762a22f316d438c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-22 00:52:29</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_1755675_pc_req_0_pc_request</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-22 00:52:29</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bca6e2db4721a2108762a22f316d4388</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1755675_pc_req_0_pc_request</sys_name>
+            <sys_package display_value="PC Request" source="x_1755675_pc_req_0">f50a69be83a522105582e4d0deaad35e</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="PC Request">f50a69be83a522105582e4d0deaad35e</sys_scope>
+            <sys_update_name>sys_ui_list_x_1755675_pc_req_0_pc_request_workspace-pc-inventory-workspace-0</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-22 00:52:29</sys_updated_on>
+            <sys_user/>
+            <view display_value="Workspace PC Inventory Workspace 0" name="workspace-pc-inventory-workspace-0">fa9622dbd221a210d035e2b16e6fec90</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

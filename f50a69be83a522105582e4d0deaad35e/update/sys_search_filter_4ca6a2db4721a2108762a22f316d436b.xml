@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_search_filter">
+    <sys_search_filter action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <ais_search_source display_value="PC Inventory">40a6a2db4721a2108762a22f316d435a</ais_search_source>
+        <label>PC Inventory</label>
+        <name>PC Inventory</name>
+        <order>100</order>
+        <search_context_config display_value="PC Inventory Workspace AI Search Configuration">7e9622db7a21a2105cc4b53638cf1d91</search_context_config>
+        <sys_class_name>sys_search_filter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-22 00:52:26</sys_created_on>
+        <sys_id>4ca6a2db4721a2108762a22f316d436b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PC Inventory</sys_name>
+        <sys_package display_value="PC Request" source="x_1755675_pc_req_0">f50a69be83a522105582e4d0deaad35e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="PC Request">f50a69be83a522105582e4d0deaad35e</sys_scope>
+        <sys_update_name>sys_search_filter_4ca6a2db4721a2108762a22f316d436b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-22 00:52:26</sys_updated_on>
+    </sys_search_filter>
+</record_update>

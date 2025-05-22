@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_registry">
+    <sys_ux_page_registry action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_panel>f29622db9521a210219a13a8d89f7698</admin_panel>
+        <admin_panel_table>sys_ux_app_config</admin_panel_table>
+        <auth_routes/>
+        <page/>
+        <parent_app display_value="Unified Navigation app shell">c86a62e2c7022010099a308dc7c26022</parent_app>
+        <path>pc-inventory-workspace</path>
+        <root_macroponent display_value="Workspace App Shell">c276387cc331101080d6d3658940ddd2</root_macroponent>
+        <sys_class_name>sys_ux_page_registry</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-22 00:52:21</sys_created_on>
+        <sys_id>729622db6a21a2101f15ce23d55c9699</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PC Inventory Workspace</sys_name>
+        <sys_package display_value="PC Request" source="x_1755675_pc_req_0">f50a69be83a522105582e4d0deaad35e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="PC Request">f50a69be83a522105582e4d0deaad35e</sys_scope>
+        <sys_update_name>sys_ux_page_registry_729622db6a21a2101f15ce23d55c9699</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-22 00:52:21</sys_updated_on>
+        <title>PC Inventory Workspace</title>
+    </sys_ux_page_registry>
+</record_update>

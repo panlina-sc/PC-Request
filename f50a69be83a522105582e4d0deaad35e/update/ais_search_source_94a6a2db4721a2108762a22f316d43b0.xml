@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_source">
+    <ais_search_source action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition/>
+        <datasource display_value="">x_1755675_pc_req_0_pc_request</datasource>
+        <has_dynamic_filters>false</has_dynamic_filters>
+        <name>PC Request </name>
+        <sys_class_name>ais_search_source</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-22 00:52:26</sys_created_on>
+        <sys_id>94a6a2db4721a2108762a22f316d43b0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PC Request </sys_name>
+        <sys_package display_value="PC Request" source="x_1755675_pc_req_0">f50a69be83a522105582e4d0deaad35e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="PC Request">f50a69be83a522105582e4d0deaad35e</sys_scope>
+        <sys_update_name>ais_search_source_94a6a2db4721a2108762a22f316d43b0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-22 00:52:26</sys_updated_on>
+    </ais_search_source>
+</record_update>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element db_object_id="01bc61b283e522105582e4d0deaad37a" label="PC Inventory" max_length="40" name="x_1755675_pc_req_0_pc_inventory" type="collection">
+    <element db_object_id="01bc61b283e522105582e4d0deaad37a" label="PC Inventory" max_length="40" name="x_1755675_pc_req_0_pc_inventory" text_index="true" type="collection">
         <element label="Inventory" max_length="255" name="inventory" type="integer"/>
         <element display="true" label="PC Model" max_length="40" name="pc_model" type="string"/>
     </element>

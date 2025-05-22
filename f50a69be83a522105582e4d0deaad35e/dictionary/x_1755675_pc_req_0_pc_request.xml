@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element db_object_id="ebebed3283e522105582e4d0deaad375" label="PC Request " max_length="40" name="x_1755675_pc_req_0_pc_request" type="collection">
+    <element db_object_id="ebebed3283e522105582e4d0deaad375" label="PC Request " max_length="40" name="x_1755675_pc_req_0_pc_request" text_index="true" type="collection">
         <element label="Remarks" max_length="200" name="remarks" type="string"/>
         <element label="Assigner" max_length="32" name="assigner" reference="sys_user" type="reference"/>
         <element label="PC Model" max_length="32" name="pc_model" reference="x_1755675_pc_req_0_pc_inventory" type="reference"/>
