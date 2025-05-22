@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="ebebed3283e522105582e4d0deaad375" label="PC Request " max_length="40" name="x_1755675_pc_req_0_pc_request" text_index="true" type="collection">
         <element label="Remarks" max_length="200" name="remarks" type="string"/>
+        <element choice="3" default="not_started" display="true" label="Outbound" max_length="40" name="outbound" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Not started" sequence="0" value="not_started"/>
+                <element inactive_on_update="false" label="Prepare" sequence="1" value="prepare"/>
+                <element inactive_on_update="false" label="Already" sequence="2" value="already"/>
+            </choice>
+        </element>
         <element label="Assigner" max_length="32" name="assigner" reference="sys_user" type="reference"/>
         <element label="PC Model" max_length="32" name="pc_model" reference="x_1755675_pc_req_0_pc_inventory" type="reference"/>
         <element label="Serial Number" max_length="40" name="serial_number" type="string"/>
