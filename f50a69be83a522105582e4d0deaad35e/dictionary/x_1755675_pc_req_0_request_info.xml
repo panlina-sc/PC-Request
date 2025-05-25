@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="6b44e46c477166108762a22f316d4321" label="Request Info" max_length="40" name="x_1755675_pc_req_0_request_info" type="collection">
+        <element choice="3" display="true" label="Status" max_length="40" name="status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Rejected" sequence="1" value="rejected"/>
+                <element inactive_on_update="false" label="Approved" sequence="0" value="approved"/>
+            </choice>
+        </element>
+        <element label="Request Number" max_length="40" name="request_number" type="string"/>
+        <element label="Approver" max_length="32" name="approver" reference="sys_user" type="reference"/>
+        <index name="index">
+            <element name="approver"/>
+        </index>
+    </element>
+</database>

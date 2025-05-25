@@ -2,7 +2,7 @@
     <par_dashboard_widget action="INSERT_OR_UPDATE">
         <canvas display_value="">15a626db4721a2108762a22f316d4344</canvas>
         <component display_value="List - Simple">2b1c080881e05dc63b917044290b233f</component>
-        <component_props>{"table":"x_1755675_pc_req_0_pc_inventory","fixedQuery":"","listTitle":"My Work","columns":"pc_model,inventory","query":"","groupByField":"","hideViewAll":true,"hideHighlightedValues":false,"highlightedValueConfigId":"","hideHighlightContent":false,"highlightContent":{"patterns":[],"color":""},"hideLinks":false,"wordWrap":false,"overrideWordWrapUserPref":false,"maxCharLimit":4000,"hideEmptyStateImage":false,"hidePersonalization":true,"hideDotwalk":true,"hideColumnReorder":true,"hideRowSelector":false,"hideColumnGrouping":true,"hideColumnResizing":true,"hideColumnFiltering":true,"hideColumnSorting":false,"hideHeader":false,"hideTitle":false,"hideTitleRowCount":false,"hideLastRefreshedText":false,"hideRefreshButton":false,"hideInlineEditing":true,"noDebounce":true,"contextMenuActions":[],"isDashboard":true,"id":"hideViewAll","value":true,"propLabel":"Hide 'View all' footer","maxColumns":2}</component_props>
+        <component_props>{"table":"x_1755675_pc_req_0_pc_inventory","fixedQuery":"","listTitle":"PC inventory information.","columns":"pc_model,inventory","query":"","groupByField":"","hideViewAll":true,"hideHighlightedValues":false,"highlightedValueConfigId":"","hideHighlightContent":false,"highlightContent":{"patterns":[],"color":""},"hideLinks":false,"wordWrap":false,"overrideWordWrapUserPref":false,"maxCharLimit":4000,"hideEmptyStateImage":false,"hidePersonalization":true,"hideDotwalk":true,"hideColumnReorder":true,"hideRowSelector":false,"hideColumnGrouping":true,"hideColumnResizing":true,"hideColumnFiltering":true,"hideColumnSorting":false,"hideHeader":false,"hideTitle":false,"hideTitleRowCount":false,"hideLastRefreshedText":false,"hideRefreshButton":false,"hideInlineEditing":false,"noDebounce":true,"contextMenuActions":[],"isDashboard":true,"id":"listTitle","value":"PC inventory information.","propLabel":"Title","maxColumns":2}</component_props>
         <h>14</h>
         <name/>
         <stored_component/>
@@ -12,7 +12,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>1da666db4721a2108762a22f316d4376</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>9</sys_mod_count>
         <sys_name/>
         <sys_overrides/>
         <sys_package display_value="PC Request" source="x_1755675_pc_req_0">f50a69be83a522105582e4d0deaad35e</sys_package>
@@ -20,11 +20,11 @@
         <sys_scope display_value="PC Request">f50a69be83a522105582e4d0deaad35e</sys_scope>
         <sys_update_name>par_dashboard_widget_1da666db4721a2108762a22f316d4376</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-05-22 01:23:21</sys_updated_on>
+        <sys_updated_on>2025-05-23 06:06:07</sys_updated_on>
         <visualization/>
-        <w>17</w>
+        <w>20</w>
         <widget_props/>
         <x>0</x>
-        <y>15</y>
+        <y>3</y>
     </par_dashboard_widget>
 </record_update>

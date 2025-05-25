@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Dates" section_id="3ec26c73476562108762a22f316d4382" sys_domain="global" table="x_1755675_pc_req_0_pc_request" version="3" view="workspace-pc-inventory-workspace-0">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>scheduled_onboarding_date</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-23 08:48:51</sys_created_on>
+            <sys_id>894d99f347a962108762a22f316d43b7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Dates" display_value="Dates" name="x_1755675_pc_req_0_pc_request" sys_domain="global" view="fa9622dbd221a210d035e2b16e6fec90">3ec26c73476562108762a22f316d4382</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-23 08:48:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-23 08:48:51</sys_created_on>
+            <sys_id>c54d99f347a962108762a22f316d43b8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Dates" display_value="Dates" name="x_1755675_pc_req_0_pc_request" sys_domain="global" view="fa9622dbd221a210d035e2b16e6fec90">3ec26c73476562108762a22f316d4382</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-23 08:48:51</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>outbound_due_date</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-23 08:48:51</sys_created_on>
+            <sys_id>cd4d99f347a962108762a22f316d43b8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Dates" display_value="Dates" name="x_1755675_pc_req_0_pc_request" sys_domain="global" view="fa9622dbd221a210d035e2b16e6fec90">3ec26c73476562108762a22f316d4382</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-23 08:48:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Dates</caption>
+            <header>false</header>
+            <name>x_1755675_pc_req_0_pc_request</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-23 04:33:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3ec26c73476562108762a22f316d4382</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1755675_pc_req_0_pc_request</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="PC Request" source="x_1755675_pc_req_0">f50a69be83a522105582e4d0deaad35e</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="PC Request">f50a69be83a522105582e4d0deaad35e</sys_scope>
+            <sys_update_name>sys_ui_section_3ec26c73476562108762a22f316d4382</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-23 04:33:23</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Workspace PC Inventory Workspace 0" name="workspace-pc-inventory-workspace-0">fa9622dbd221a210d035e2b16e6fec90</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

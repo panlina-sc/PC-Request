@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="76c26c73476562108762a22f316d4384" sys_domain="global" table="x_1755675_pc_req_0_pc_request" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-23 04:33:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fec26c73476562108762a22f316d4387</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1755675_pc_req_0_pc_request" name="x_1755675_pc_req_0_pc_request" sys_domain="global" view="fa9622dbd221a210d035e2b16e6fec90">76c26c73476562108762a22f316d4384</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_1755675_pc_req_0_pc_request" sys_domain="global" view="fa9622dbd221a210d035e2b16e6fec90">cda6e2db4721a2108762a22f316d4355</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-23 04:33:24</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-23 04:33:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7ec26c73476562108762a22f316d4388</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1755675_pc_req_0_pc_request" name="x_1755675_pc_req_0_pc_request" sys_domain="global" view="fa9622dbd221a210d035e2b16e6fec90">76c26c73476562108762a22f316d4384</sys_ui_form>
+            <sys_ui_section caption="Dates" display_value="Dates" name="x_1755675_pc_req_0_pc_request" sys_domain="global" view="fa9622dbd221a210d035e2b16e6fec90">3ec26c73476562108762a22f316d4382</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-23 04:33:24</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-23 05:34:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>dfc038f347a562108762a22f316d433d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1755675_pc_req_0_pc_request" name="x_1755675_pc_req_0_pc_request" sys_domain="global" view="fa9622dbd221a210d035e2b16e6fec90">76c26c73476562108762a22f316d4384</sys_ui_form>
+            <sys_ui_section caption="PC Info" display_value="PC Info" name="x_1755675_pc_req_0_pc_request" sys_domain="global" view="fa9622dbd221a210d035e2b16e6fec90">8bc038f347a562108762a22f316d4320</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-23 05:34:36</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_1755675_pc_req_0_pc_request</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-23 04:33:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>76c26c73476562108762a22f316d4384</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1755675_pc_req_0_pc_request</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="PC Request" source="x_1755675_pc_req_0">f50a69be83a522105582e4d0deaad35e</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="PC Request">f50a69be83a522105582e4d0deaad35e</sys_scope>
+            <sys_update_name>sys_ui_form_sections_76c26c73476562108762a22f316d4384</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-23 04:33:23</sys_updated_on>
+            <sys_user/>
+            <view display_value="Workspace PC Inventory Workspace 0" name="workspace-pc-inventory-workspace-0">fa9622dbd221a210d035e2b16e6fec90</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

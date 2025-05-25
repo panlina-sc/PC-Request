@@ -10,6 +10,8 @@
         </element>
         <element label="Assigner" max_length="32" name="assigner" reference="sys_user" type="reference"/>
         <element label="PC Model" max_length="32" name="pc_model" reference="x_1755675_pc_req_0_pc_inventory" type="reference"/>
+        <element label="Outbound Due Date" max_length="40" name="outbound_due_date" type="glide_date"/>
+        <element label="Scheduled Onboarding Date" max_length="40" name="scheduled_onboarding_date" type="glide_date"/>
         <element label="Serial Number" max_length="40" name="serial_number" type="string"/>
         <index name="index">
             <element name="pc_model"/>
