@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_dictionary action="DELETE" element="outbound_due_date" table="x_1755675_pc_req_0_pc_request">
+        <active>true</active>
+        <array>false</array>
+        <attributes/>
+        <audit>false</audit>
+        <calculation/>
+        <choice>0</choice>
+        <choice_field/>
+        <choice_table/>
+        <column_label>Outbound Date</column_label>
+        <comments/>
+        <create_roles/>
+        <default_value/>
+        <defaultsort/>
+        <delete_roles/>
+        <dependent/>
+        <dependent_on_field/>
+        <display>false</display>
+        <dynamic_creation>false</dynamic_creation>
+        <dynamic_creation_script/>
+        <dynamic_default_value/>
+        <dynamic_ref_qual/>
+        <element>outbound_due_date</element>
+        <element_reference>false</element_reference>
+        <foreign_database/>
+        <formula/>
+        <function_definition/>
+        <function_field>false</function_field>
+        <internal_type display_value="">glide_date</internal_type>
+        <mandatory>false</mandatory>
+        <max_length>40</max_length>
+        <name>x_1755675_pc_req_0_pc_request</name>
+        <next_element/>
+        <primary>false</primary>
+        <read_only>false</read_only>
+        <read_roles/>
+        <reference/>
+        <reference_cascade_rule/>
+        <reference_floats>false</reference_floats>
+        <reference_key/>
+        <reference_qual/>
+        <reference_qual_condition/>
+        <reference_type/>
+        <spell_check>false</spell_check>
+        <staged>false</staged>
+        <sys_class_name>sys_dictionary</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-23 04:55:29</sys_created_on>
+        <sys_id>e2d7ecf7476562108762a22f316d43f4</sys_id>
+        <sys_name>Outbound Date</sys_name>
+        <sys_package display_value="PC Request" source="x_1755675_pc_req_0">f50a69be83a522105582e4d0deaad35e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="PC Request">f50a69be83a522105582e4d0deaad35e</sys_scope>
+        <sys_update_name>sys_dictionary_x_1755675_pc_req_0_pc_request_outbound_due_date</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-05 14:11:27</sys_updated_on>
+        <table_reference>false</table_reference>
+        <text_index>false</text_index>
+        <unique>false</unique>
+        <use_dependent_field>false</use_dependent_field>
+        <use_dynamic_default>false</use_dynamic_default>
+        <use_reference_qualifier>simple</use_reference_qualifier>
+        <virtual>false</virtual>
+        <virtual_type>script</virtual_type>
+        <widget/>
+        <write_roles/>
+        <xml_view>false</xml_view>
+    </sys_dictionary>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="PC Request">f50a69be83a522105582e4d0deaad35e</application>
+        <file_path/>
+        <instance_id>3716a0c3ff692210c80bf8e4fc4fd9a6</instance_id>
+        <instance_name>dev348848</instance_name>
+        <name>sys_dictionary_x_1755675_pc_req_0_pc_request_outbound_due_date</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_dictionary action="INSERT_OR_UPDATE" element="outbound_due_date" table="x_1755675_pc_req_0_pc_request"><active>true</active><array>false</array><attributes/><audit>false</audit><calculation/><choice>0</choice><choice_field/><choice_table/><column_label>Outbound Date</column_label><comments/><create_roles/><default_value/><defaultsort/><delete_roles/><dependent/><dependent_on_field/><display>false</display><dynamic_creation>false</dynamic_creation><dynamic_creation_script/><dynamic_default_value/><dynamic_ref_qual/><element>outbound_due_date</element><element_reference>false</element_reference><foreign_database/><formula/><function_definition/><function_field>false</function_field><internal_type display_value="">glide_date</internal_type><mandatory>false</mandatory><max_length>40</max_length><name>x_1755675_pc_req_0_pc_request</name><next_element/><primary>false</primary><read_only>false</read_only><read_roles/><reference/><reference_cascade_rule/><reference_floats>false</reference_floats><reference_key/><reference_qual/><reference_qual_condition/><reference_type/><spell_check>false</spell_check><staged>false</staged><sys_class_name>sys_dictionary</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-05-23 04:55:29</sys_created_on><sys_id>e2d7ecf7476562108762a22f316d43f4</sys_id><sys_name>Outbound Date</sys_name><sys_package display_value="PC Request" source="x_1755675_pc_req_0">f50a69be83a522105582e4d0deaad35e</sys_package><sys_policy/><sys_scope display_value="PC Request">f50a69be83a522105582e4d0deaad35e</sys_scope><sys_update_name>sys_dictionary_x_1755675_pc_req_0_pc_request_outbound_due_date</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-06-05 14:11:27</sys_updated_on><table_reference>false</table_reference><text_index>false</text_index><unique>false</unique><use_dependent_field>false</use_dependent_field><use_dynamic_default>false</use_dynamic_default><use_reference_qualifier>simple</use_reference_qualifier><virtual>false</virtual><virtual_type>script</virtual_type><widget/><write_roles/><xml_view>false</xml_view></sys_dictionary></record_update>]]></payload>
+        <payload_hash>-1442006264</payload_hash>
+        <record_name>PC Request .Outbound Date</record_name>
+        <reverted_from/>
+        <source>72fdd2df47ed62108762a22f316d439b</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-05 14:11:27</sys_created_on>
+        <sys_id>99c32184478a66108762a22f316d43ae</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>197406eb9860000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-05 14:11:27</sys_updated_on>
+        <type>Dictionary</type>
+        <update_guid>11c321846e8a6610b49f1e341b7e05ae</update_guid>
+        <update_guid_history>11c321846e8a6610b49f1e341b7e05ae:-1442006264,2acfa0b3b0a56210750bed6eb5c54909:146652448,3ad7203b48656210a56713502c5d4c4c:-1139662554,6ad7203b6e6562107c0a4312f7befe3c:-1912485405</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-05 14:17:03</sys_created_on>
+        <sys_db_object display_value="" name="sys_dictionary">sys_dictionary</sys_db_object>
+        <sys_id>1b9dc32b502e46fd85576e8531aca929</sys_id>
+        <sys_metadata>e2d7ecf7476562108762a22f316d43f4</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Outbound Date</sys_name>
+        <sys_package display_value="PC Request" source="x_1755675_pc_req_0">f50a69be83a522105582e4d0deaad35e</sys_package>
+        <sys_parent display_value="Pc Req 0 Pc Request">ebebed3283e522105582e4d0deaad375</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="PC Request">f50a69be83a522105582e4d0deaad35e</sys_scope>
+        <sys_scope_delete display_value="">10fb274241b044148229356fbb05d210</sys_scope_delete>
+        <sys_update_name>sys_dictionary_x_1755675_pc_req_0_pc_request_outbound_due_date</sys_update_name>
+        <sys_update_version display_value="sys_dictionary_x_1755675_pc_req_0_pc_request_outbound_due_date">99c32184478a66108762a22f316d43ae</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-05 14:17:03</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
